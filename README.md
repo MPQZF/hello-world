@@ -1,4 +1,5 @@
 # hello-world
 Just my first repository
 
-python c.
+
+I am a rookie of python and C.
